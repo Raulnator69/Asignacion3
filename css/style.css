@@ -125,3 +125,6 @@ textarea:disabled {
     margin-top: 1rem;
 }
 
+#encrypted-text-container {
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
